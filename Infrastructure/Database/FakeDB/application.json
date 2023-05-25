@@ -1,0 +1,17 @@
+[
+    {
+        "key": "blogyd",
+        "ApplicationName": "Blog API",
+        "Address": "http://localhost:3001"
+    },
+    {
+        "key": "eComyd",
+        "ApplicationName": "E-Commerce API",
+        "Address": "http://localhost:3002"
+    },
+    {
+        "key": "Bettingyd",
+        "ApplicationName": "Betting API",
+        "Address": "http://localhost:3003"
+    }
+]

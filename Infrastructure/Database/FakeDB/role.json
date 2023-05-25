@@ -1,0 +1,18 @@
+[
+    {
+        "appId": "1",
+        "name": "BlogUser"
+    },
+    {
+        "appId": "1",
+        "name": "BlogAdmin"
+    },
+    {
+        "appId": "2",
+        "name": "E-CommerceUser"
+    },
+    {
+        "appId": "1",
+        "name": "E-CommerceAdmin"
+    }
+]
