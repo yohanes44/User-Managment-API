@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Application Registration</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    
+    .container {
+      max-width: 400px;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    h1 {
+      text-align: center;
+    }
+    
+    input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+    
+    input[type="submit"] {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      float: right;
+    }
+    
+    input[type="submit"]:hover {
+      background-color: #45a049;
+    }
+    
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 14px;
+    }
+    
+    .footer span {
+      display: block;
+      margin-bottom: 5px;
+    }
+    
+    .footer a {
+      color: #777;
+      text-decoration: none;
+    }
+    
+    .footer a:hover {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Application Registration</h1>
+    <form>
+      <input type="text" placeholder="Application Name" id="appName" required>
+      <input type="text" placeholder="Address" id="address" required>
+      <input type="submit" value="Register">
+    </form>
+  </div>
+  <div class="footer">
+    <span>Developed by</span>
+    <a href="https://www.linkedin.com/in/yohanes-debebe-76024a209/" target="_blank">Yohanes Debebe</a>
+  </div>
+</body>
+</html>

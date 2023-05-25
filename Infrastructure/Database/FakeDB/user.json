@@ -1,17 +1,1 @@
-[
-    {
-        "FullName": "Yohanes Debebe",
-        "password": "4466",
-        "email": "yd@g.com"
-    },
-    {
-        "FullName": "Samuel Debebe",
-        "password": "sd",
-        "email": "sd@g.com"
-    },
-    {
-        "FullName": "Feker Assefa",
-        "password": "fk46",
-        "email": "fk@g.com"
-    }
-]
+{"user":[{"FullName":"Yohanes Debebe","password":"4466","email":"yd@g.com"},{"FullName":"Samuel Debebe","password":"sd","email":"sd@g.com"},{"FullName":"Feker Assefa","password":"fk46","email":"fk@g.com"},{"fullName":"Abebe Gemeda","password":"abe","email":"abe@g.com"},{"fullName":"Abebe Gemdseda","password":"asdbe","email":"adsbe@g.com"},{"fullName":"eshetu Gemdseda","password":{},"email":"adsbe@g.com"},{"fullName":"eshetu Gemdseda","password":{},"email":"eshetue@g.com"},{"fullName":"hachalu Gemdseda","password":"$2b$10$E998wL77BaP1zkA4iGYbfuzlXGU3J87mD1R4qcIxipx2tZIB3nEZG","email":"hachalutue@g.com"},{"fullName":"worke","password":"$2b$10$dteztdLMuuKnBAi6yCm0PO8hXUVVqwlEDLAA61yfFSsOLB2CPVNIi","email":"worke1@g.com"},{"fullName":"worke","password":"$2b$10$utNdTaDoKGezXkRkqx9LpuZ8jdo5jIOkWzWvJMSz/ftxWhQ3/nvIK","email":"worke1@g.com"},{"fullName":"worke","password":"$2b$10$XFweN9NYZ4LQBibvZ2JJk.INiYfzFCbwHIZagqNyGmESJlx.154oK","email":"worke2@g.com"},{"fullName":"je","password":"$2b$10$37CFejcudJ0n45SGlonlr.7f2b3vj2ArHSwyZrSIfDzMIpb6zTIXS","email":"je@g.com"},{"fullName":"sam","password":"$2b$10$0SjOSVXEt2PN.AH7ouK/q.FxCMi98sFRbIIJ91GHXYuJBpVyJ2rbO","email":"sm2@g.com"},{"fullName":"sam","password":"$2b$10$jGzEfvdhYXdcjrtaw9g6tOricDQV8vWza.JA9e./MDrvQMK.Kg/.W","email":"sm22@g.com"},{"fullName":"sm22","password":"$2b$10$jagWfCddAF682zBa08l.OuYLxoe9s3iuMK0M1ifhmiK.2qUXGQbxS","email":"sm22@g.com"}],"application":[{"key":"blogyd","ApplicationName":"Blog API","Address":"http://localhost:3001"},{"key":"eComyd","ApplicationName":"E-Commerce API","Address":"http://localhost:3002"},{"key":"Bettingyd","ApplicationName":"Betting API","Address":"http://localhost:3003"}],"permission":[{"userId":1,"roleID":1},{"userId":1,"roleID":2},{"userId":2,"roleID":3}],"role":[{"appId":"1","name":"BlogUser"},{"appId":"1","name":"BlogAdmin"},{"appId":"2","name":"E-CommerceUser"},{"appId":"1","name":"E-CommerceAdmin"}]}
