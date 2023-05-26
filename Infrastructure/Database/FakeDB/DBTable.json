@@ -1,0 +1,12 @@
+{
+    "user":[
+    {"FullName":"Yohanes Debebe","password":"4466","email":"yd@g.com"},
+    {"FullName":"Samuel Debebe","password":"sd","email":"sd@g.com"},
+    {"FullName":"Feker Assefa","password":"fk46","email":"fk@g.com"},
+    {"fullName":"Abebe Gemeda","password":"abe","email":"abe@g.com"},
+    {"fullName":"Abebe Gemdseda","password":"asdbe","email":"adsbe@g.com"},
+    {"fullName":"hachalu Gemdseda","password":"$2b$10$E998wL77BaP1zkA4iGYbfuzlXGU3J87mD1R4qcIxipx2tZIB3nEZG","email":"hachalutue@g.com"}
+],
+"application":[
+    {"key":"blogyd","ApplicationName":"Blog API","Address":"http://localhost:3001"},
+    {"key":"eComyd","ApplicationName":"E-Commerce API","Address":"http://localhost:3002"},{"key":"Bettingyd","ApplicationName":"Betting API","Address":"http://localhost:3003"}],"permission":[{"userId":1,"roleID":1},{"userId":1,"roleID":2},{"userId":2,"roleID":3}],"role":[{"appId":"1","name":"BlogUser"},{"appId":"1","name":"BlogAdmin"},{"appId":"2","name":"E-CommerceUser"},{"appId":"1","name":"E-CommerceAdmin"}]}

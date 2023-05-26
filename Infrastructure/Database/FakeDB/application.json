@@ -1,17 +1,228 @@
 [
-    {
-        "key": "blogyd",
-        "ApplicationName": "Blog API",
-        "Address": "http://localhost:3001"
-    },
-    {
-        "key": "eComyd",
-        "ApplicationName": "E-Commerce API",
-        "Address": "http://localhost:3002"
-    },
-    {
-        "key": "Bettingyd",
-        "ApplicationName": "Betting API",
-        "Address": "http://localhost:3003"
-    }
+  {
+    "appId": 1,
+    "key": "beting4466",
+    "ApplicationName": "Betting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 2,
+    "key": "eComp4466",
+    "ApplicationName": "E-Commerce API",
+    "Address": "http://localhost:3005"
+  },
+  {
+    "appId": 3,
+    "key": "blgp4466",
+    "ApplicationName": "Blog API",
+    "Address": "http://localhost:3007"
+  },
+  {
+    "appId": 3,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 4,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 5,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 6,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 7,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 8,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 9,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 10,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 11,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 12,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 13,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 14,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 15,
+    "key": "johnbettingApp4466"
+  },
+  {
+    "appId": 16,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 17,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 18,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 19,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 20,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 21,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 22,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 23,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 24,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 25,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 26,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 27,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 28,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 29,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 30,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 31,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 32,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 33,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 34,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 35,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 36,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  },
+  {
+    "appId": 37,
+    "key": "johnbettingApp4466",
+    "ApplicationName": "cvvvvzxcczzczzzzzBetting API",
+    "Address": "http://localhost:3003"
+  }
 ]

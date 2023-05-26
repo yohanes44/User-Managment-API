@@ -1,18 +1,17 @@
 [
     {
-        "appId": "1",
-        "name": "BlogUser"
+        "id": 1,
+        "appId": 1,
+        "Name": "user"
     },
     {
-        "appId": "1",
-        "name": "BlogAdmin"
+        "id": 2,
+        "appId": 1,
+        "Name": "admin"
     },
     {
-        "appId": "2",
-        "name": "E-CommerceUser"
-    },
-    {
-        "appId": "1",
-        "name": "E-CommerceAdmin"
+        "id": 3,
+        "appId": 2,
+        "Name": "user"
     }
 ]
