@@ -45,31 +45,24 @@ async function authenticateToken(token: any){
 export async function appRegister(req: any, res: any){
 
     try{
-        
-        // console.log("appRegister Function CAlled");
-        
-        // console.log(req.headers.authorization.split("Bearer ")[1]);
-        
-        // const token = req.headers["authorization"].split("Bearer ")[1]; 
-       
-        // console.log("Before loginnn");
 
 
-        // authenticateToken(token);
-
+        // console.log(req.user);
+        const user = fakeDBUser.find( (user: any) => user.email == req.user.email );
+        if(!user){
+            return res.json("No user is found with your Email");
+        }
 
         const { key, ApplicationName, Address } = req.body;
+        const appAdmin = user.id;
+
         var appLength = fakeDBApp.length;
     
-        fakeDBApp.push({ appId: appLength++, key, ApplicationName, Address });
+        fakeDBApp.push({ appId: appLength++, key, ApplicationName, Address, appAdmin });
     
     
         fs.writeFileSync('./Infrastructure/Database/FakeDB/Application.json', JSON.stringify(fakeDBApp, null, 2) + '\n');
         
-        // console.log(req.cookie);
-       
-        
-      
         return res.json({message: "Application Registered Succesffuly", "app info": fakeDBApp[fakeDBApp.length - 1] });
     
     }
@@ -78,4 +71,12 @@ export async function appRegister(req: any, res: any){
     }
     
    
+}
+
+
+export async function userRegister(req: any, res:any){
+    
+
+
+    // fakeDBUser.push({ fullName, password, email });
 }
